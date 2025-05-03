@@ -1,0 +1,1 @@
+vless://d22a1ef3-6a36-44db-9171-557da963a940@123.143.9.5:14041?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=kz-full.privateip.net&fp=chrome&type=ws&sni=kz-full.privateip.net#hehehe
